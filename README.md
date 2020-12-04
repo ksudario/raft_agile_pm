@@ -31,6 +31,5 @@
 ###### * Communication Plan
         * Expected Attendees: Internal Team + Client Team
         * Goal: Identify team's primary mode of communication, meeting frequency, and periodic checkins with the client team.
-###### * Communication Plan
 
 ###### Note: Internal Team consists of Product Manager, Tech Lead, Frontend Dev, Backend Dev, Design Lead, UX Researcher, Content Strategist.
